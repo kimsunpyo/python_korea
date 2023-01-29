@@ -38,3 +38,4 @@ print('총 가격은',int(price)*int(count),'원 입니다.')\
 
 
 
+

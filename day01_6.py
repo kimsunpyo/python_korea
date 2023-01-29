@@ -13,3 +13,4 @@ random = int(input('10~99 사이의 숫자를 입력하세요:'))
 print('십의 자리:',int(random / 10))
 print('일의 자리:',random % 10,)  
 
+
